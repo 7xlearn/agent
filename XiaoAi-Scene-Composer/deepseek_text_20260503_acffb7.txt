@@ -1,0 +1,8 @@
+XiaoAi-Scene-Composer/
+├── README.md
+├── requirements.txt
+├── .env.example
+├── config.py
+├── tools.py          # 模拟小米场景引擎 API
+├── orchestrator.py   # 多 Agent 调度器
+└── main.py
